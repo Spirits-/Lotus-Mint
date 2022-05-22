@@ -3,16 +3,16 @@
     <id>com.github.spirits.lotusmint</id>
     <name>Lotus-Mint</name>
     <vendor>spirits-</vendor>
+    <description><![CDATA[
+        <h1>Lotus Mint Theme Plugin</h1>
 
+        <h2>A variation of the Lotus theme for the IntelliJ platform with less pink. Includes Rainbow Bracket colours.
+
+        </h2>]]>
+    </description>
+    <idea-version since-build="213.7"/>
     <depends>com.intellij.modules.platform</depends>
-
     <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceImplementation="com.github.spirits.lotusmint.services.MyApplicationService"/>
-        <projectService serviceImplementation="com.github.spirits.lotusmint.services.MyProjectService"/>
+        <themeProvider id="e94e86dd-8625-4810-b5d2-cac554a15e32" path="/theme/Lotus_Mint.theme.json"/>
     </extensions>
-
-    <applicationListeners>
-        <listener class="com.github.spirits.lotusmint.listeners.MyProjectManagerListener"
-                  topic="com.intellij.openapi.project.ProjectManagerListener"/>
-    </applicationListeners>
 </idea-plugin>

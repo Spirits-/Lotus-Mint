@@ -2,7 +2,7 @@
   "name": "Lotus Mint",
   "dark": false,
   "author": "Spirits",
-  "editorScheme": "/Lotus_Mint.xml",
+  "editorScheme": "/editor.colours/Lotus_Mint.xml",
 
   "colors": {
     "backgroundColor": "#FAFAFA",

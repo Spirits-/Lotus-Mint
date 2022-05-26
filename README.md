@@ -1,8 +1,6 @@
 # Lotus-Mint
 
-![Build](https://github.com/Spirits-/Lotus-Mint/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+<img src="https://github.com/Spirits-/Lotus-Mint/blob/main/screenshots/editor-light.png?raw=true" alt="Screenshot of the light IDE theme.">
 
 <!-- Plugin description -->
 This is a variation of the light Lotus theme that can be found here: https://github.com/blai30/Lotus-Theme and on the JetBrains marketplace. The goal is to 

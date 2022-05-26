@@ -4,11 +4,11 @@
     <name>Lotus-Mint</name>
     <vendor>spirits-</vendor>
     <description><![CDATA[
-        <h1>Lotus Mint Theme Plugin</h1>
+        This is a variation of the light Lotus theme that can be found here: https://github.com/blai30/Lotus-Theme and on the JetBrains marketplace.
 
-        <h2>A variation of the Lotus theme for the IntelliJ platform with less pink. Includes Rainbow Bracket colours.
+        The goal is to preserve the feel while reducing the amount of pink that can be found in the original version. For a dark version, check out the original Lotus theme!
 
-        </h2>]]>
+        Icon courtesy of SVG Repo: https://www.svgrepo.com/svg/229197/lotus]]>
     </description>
     <idea-version since-build="213.7"/>
     <depends>com.intellij.modules.platform</depends>
